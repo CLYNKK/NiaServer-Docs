@@ -4,7 +4,7 @@ import { enNavbar, zhNavbar } from "./navbar/index.js";
 import { enSidebar, zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-  hostname: "https://docs.mcnia.com",
+  hostname: "https://clynkk.github.io/NiaServer-Docs/",
 
   logo: '/logo.png',
   logoDark: '/logoDark.png',
