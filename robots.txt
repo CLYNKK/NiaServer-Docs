@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://clynkk.github.io/NiaServer-Docs/sitemap.xml
